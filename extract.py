@@ -25,4 +25,4 @@ if pptx_files:
                             # Save the run.text content to the file
                             file.write(run.text + '\n')
 else:
-    print("No PPTX files found in the directory.")
+    print("No PPTX files found in the directory.") 
